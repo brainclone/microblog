@@ -1,0 +1,15 @@
+venv/
+.eric6project/
+.ropeproject/
+.directory/
+*.pyc
+*.pyo
+*.orig
+*.bak
+*.rej
+*.swp
+*~
+cur/
+tmp/
+__pycache__/
+*.DS_Store
