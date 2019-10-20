@@ -9,3 +9,7 @@ db = SQLAlchemy(app)
 migrate = Migrate(app, db)
 
 from app import routes, models
+
+
+#import dbgp.client
+#dbgp.client.brk(host="localhost", port=9000)
